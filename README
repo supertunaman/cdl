@@ -1,6 +1,25 @@
-+----------------+
-| Sample Project |
-+----------------+
+ CCCC   DDDD    L
+C       D   D   L
+C       D   D   L
+C       D   D   L
+ CCCC   DDDD    LLLLL
 
-This is a project that is really really useful. See COPYING for license
-terms, and DANCE for instructions on how to do the Chicken Dance.
+This license is meant to bring humor to the silliness of intellectual
+property. If you use this license, be sure that you're writing something
+useful that companies my take interest in using.
+
+Basically, put the license text in COPYING, or in the individual source
+files. There are three samples here to get you started. Then include 
+instructions on how to perform the chicken dance in a filecalled DANCE. 
+Make a note of these files in your README.
+
+I copied my instructions from WikiHow, and credited WikiHow with it. You
+should too if you do the same.
+
+What's nice about this is that you can change the dance that is required
+by the company. You get to decide if they do the swing or not, or how
+to emulate the chicken beaks.
+
+License responsibly.
+
+-tuna
